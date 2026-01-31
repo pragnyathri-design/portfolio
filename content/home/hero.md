@@ -33,15 +33,15 @@ hero_media = "user-2.jpg"
 # Call to action links (optional).
 #   Display link(s) by specifying a URL and label below. Icon is optional for `[cta]`.
 #   Remove a link/note by deleting a cta/note block.
-[btn]
-  url = "authors/admin/"
-  label = "Know more"
+#[btn]
+  # url = "authors/admin/"
+  # label = "Know more"
   
-[btn_alt]
-  url = "#contact"
-  label = "Contact me"
+# [btn_alt]
+  # url = "#contact"
+  # label = "Contact me"
 
 +++
-## My name is **Michael Vahn** and I'm a **Professor** specializing in **Artificial Intelligence**
+## My name is **Pragnya Prasanna Athri** 
 
-Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC.
+I'm majoring in **Cell Molecular and Developmental Biology** with a minor in **Chemistry** and a certificate in **Pharmaceutical Manufacturing** from Purdue University.
