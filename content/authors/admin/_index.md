@@ -7,7 +7,7 @@ authors:
 - admin
 # resume download button
 btn:
-- url : "https://docs.gethugothemes.com/guide/"
+- url : "Athri_Pragyna_resume.pdf"
   label : "Download Resume"
 
 # Is this the primary user of the site?

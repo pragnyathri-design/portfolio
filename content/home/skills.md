@@ -5,8 +5,8 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 30  # Order that this section will appear.
 
-title = "Skills"
-subtitle = "I AM REALLY GOOD AT THE FOLLOWING TECHNICAL SKILLS"
+title = "Hobbies"
+subtitle = "Life Outside Science"
 
 # Showcase personal skills or business features.
 # 
@@ -15,27 +15,50 @@ subtitle = "I AM REALLY GOOD AT THE FOLLOWING TECHNICAL SKILLS"
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
 
 [[feature]]
-  icon = "chart-line"
+  icon = "hiking"
   icon_pack = "fas"
-  name = "Analysis"
-  parcent = "90%"
+  name = "Trekking"
+  parcent = ""
   
 [[feature]]
-  icon = "user-secret"
+  icon = "guitar"
   icon_pack = "fas"
-  name = "Leadership"
-  parcent = "80%"  
+  name = "Guitar"
+  parcent = ""  
   
 [[feature]]
-  icon = "camera-retro"
+  icon = "music"
   icon_pack = "fas"
-  name = "Photography"
-  parcent = "70%"
+  name = "Bharatnatyam"
+  parcent = ""
   
 [[feature]]
-  icon = "searchengin"
-  icon_pack = "fab"
-  name = "Research"
-  parcent = "95%"
+  icon = "plane-departure"
+  icon_pack = "fas"
+  name = "Travelling"
+  parcent = ""
+
+  [[feature]]
+  icon = "palette"
+  icon_pack = "fas"
+  name = "Painting"
+  parcent = ""
+
+[[feature]]
+  icon = "hands-helping"
+  icon_pack = "fas"
+  name = "Volunteering"
+  parcent = ""
+
+  [[feature]]
+  icon = "utensils"
+  icon_pack = "fas"
+  name = "Cooking"
+  parcent = ""
+
+ [[feature]]
+icon = "film"
+icon_pack = "fas"
+name = "Film Appreciation"
 
 +++
