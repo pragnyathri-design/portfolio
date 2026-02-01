@@ -9,7 +9,7 @@ title = " Pragnya Athri"
 
 # The URL of your site.
 # End your URL with a `/` trailing slash, e.g. `https://example.com/`.
-#baseURL = "https://pragnyathri-design.github.io/portfolio/"
+# baseURL = "https://pragnyathri-design.github.io/portfolio/"
 baseURL = "/"
 
 # Enter a copyright notice to display in the site footer.
