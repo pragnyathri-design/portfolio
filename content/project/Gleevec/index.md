@@ -15,4 +15,6 @@ image:
 Studied the impact of BCR-ABL kinase mutations (T315I, H396P) on resistance to the leukemia drug Imatinib (Gleevec) by generating mutant constructs via site-directed mutagenesis, expressing and purifying Abl kinase, and analyzing protein integrity using SDS-PAGE and Bradford assays. Measured drug inhibition through a coupled kinase activity assay and used structural modeling to interpret mutation-driven changes in drug binding.
 Studied the impact of BCR-ABL kinase mutations (T315I, H396P) on resistance to the leukemia drug Imatinib (Gleevec) by generating mutant constructs via site-directed mutagenesis, expressing and purifying Abl kinase, and analyzing protein integrity using SDS-PAGE and Bradford assays. Measured drug inhibition through a coupled kinase activity assay and used structural modeling to interpret mutation-driven changes in drug binding.
 
+***Skills: Site-directed mutagenesis, plasmid construct design, protein expression & purification, kinase assays, drug inhibition analysis, SDS-PAGE, Bradford protein quantification, enzymatic activity assays, structural modeling, data analysis***
+
 </div>

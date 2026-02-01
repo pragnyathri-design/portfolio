@@ -14,6 +14,6 @@ image:
 
 Adapted the Bispecific Antigenic Immuno-Therapy (BAiT) platform to target hypoxic melanoma, where traditional therapies are often ineffective. Designed dual-hapten BAiT conjugates to bind CAIX⁺ tumor cells and recruit endogenous antibodies, activating immune effector responses (ADCC, CDC, ADCP). In vitro assays demonstrated selective binding and strong immune activation in CAIX⁺ CT-26 cells, while in vivo treatment significantly improved survival in tumor-bearing mice. These findings highlight BAiT’s potential as a novel antibody-recruiting strategy for treating hypoxia-driven cancers.
 
-***Skills: ADCC, ADCP***
+***Skills: bispecific therapeutic design, antibody-recruiting strategies, tumor targeting (CAIX), hypoxia-associated tumor biology, in vitro cell-based assays, immune effector function assays (ADCC, CDC, ADCP), in vivo mouse tumor models***
 
 </div>

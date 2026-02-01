@@ -16,7 +16,7 @@ image:
 
 Designed and optimized two functional in vitro assays (cell proliferation and migration) using human intestinal fibroblasts to model cellular dynamics relevant to Inflammatory Bowel Disease (IBD). Performed extensive live-cell imaging and microscopy to capture real-time cell behavior, enabling quantitative assessment of drug response and fibrosis-associated tissue remodeling. Leveraged these assay platforms to evaluate the mechanisms of action (MOA) of novel therapeutic candidates, contributing to preclinical drug development and advancing mechanistic insight into disease-related fibroblast activity.
 
-**Skills**: Primary human cell culture, fibroblast biology, in vitro functional assays, cell proliferation assays, cell migration assays, live-cell imaging, fluorescence microscopy, drug response evaluation, mechanism-of-action studies, preclinical assay development, quantitative image analysis.
+***Skills: Primary human cell culture, fibroblast biology, in vitro functional assays, cell proliferation assays, cell migration assays, live-cell imaging, fluorescence microscopy, drug response evaluation, mechanism-of-action studies, preclinical assay development, quantitative image analysis.***
 
 
 </div>
