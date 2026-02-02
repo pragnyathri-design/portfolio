@@ -25,7 +25,7 @@ date_format = "Jan 2006"
   date_start = "2025-12-01"
   date_end = ""
   description = """
-  Volunteer with Cancer Mukti Foundation, working to support individuals and families impacted by cancer through awareness campaigns, educational initiatives, and community engagement. Help promote early detection and empower communities with knowledge about cancer prevention and care resources.
+  I volunteer with the Cancer Mukti Foundation, supporting individuals and families impacted by cancer through awareness campaigns, educational initiatives, and community engagement efforts. My work focuses on promoting early detection and empowering communities with accessible knowledge about cancer prevention, treatment options, and care resources.
   """
 
 [[experience]]
@@ -35,7 +35,7 @@ date_format = "Jan 2006"
   location = "West Lafayette"
   date_start = "2025-08-01"
   date_end = ""
-  description = """Working on the expansion of Eradivir’s bispecific antigenic immunotherapy (BAiT) platform for the treatment of kidney cancer and hematologic malignancies.."""
+  description = """I am working on the expansion of Eradivir’s bispecific antigenic immunotherapy (BAiT) platform, contributing to the development of targeted immune-based treatments for kidney cancer and hematologic malignancies."""
 
 [[experience]]
   title = "Discovery Immunology CO-OP"
@@ -44,7 +44,9 @@ date_format = "Jan 2006"
   location = "Boston"
   date_start = "2025-01-01"
   date_end = "2025-07-30"
-  description = """ Contributed to the development and optimization of functional Proliferation and Migration assays to study stromalimmune cell interactions. This experience provided hands-on training in immunological assay design, data analysis, and translational research within an industry setting. I collaborated cross-functionally to support preclinical studies aimed at advancing immunotherapeutic strategies and strengthened my expertise in immune mechanisms, experimental design, and therapeutic target evaluation.I contributed to the development and optimization of functional Proliferation and Migration assays to study stromalimmune cell interactions. This experience provided hands-on training in immunological assay design, data analysis, and translational research within an industry setting. I collaborated cross-functionally to support preclinical studies aimed at advancing immunotherapeutic strategies and strengthened my expertise in immune mechanisms, experimental design, and therapeutic target evaluation.
+  description = """ I contributed to the development and optimization of functional proliferation and migration assays to study stromal–immune cell interactions, helping clarify how the tumor microenvironment influences immune behavior. This work provided hands-on experience in immunological assay design, data analysis, and translational research within an industry setting.
+
+I collaborated cross-functionally to support preclinical studies advancing immunotherapeutic strategies, strengthening my understanding of immune mechanisms, experimental design, and therapeutic target evaluation. Through this experience, I gained insight into how foundational immune research informs drug development pipelines..
 """
 [[experience]]
   title = "Research Assistant"
@@ -53,14 +55,33 @@ date_format = "Jan 2006"
   location = "West Lafayette"
   date_start = "2024-07-01"
   date_end = "2024-12-01"
-  description = """Conducted immunological assays to evaluate the efficacy of novel immunotherapeutic agents and supported BSL-2 in vivo influenza studies, including lung tissue homogenization and biological sample processing for downstream immune analysis. Contributed to experimental design, project development, and peptide synthesis efforts, continuing research part-time during the academic year to advance immunotherapy-focused translational research."""
+  description = """I conducted immunological assays to evaluate the efficacy of novel immunotherapeutic agents, contributing to efforts aimed at strengthening translational immune-based treatment strategies. My work also included supporting BSL-2 in vivo influenza studies, where I performed lung tissue homogenization and processed biological samples for downstream immune analysis.
+
+Beyond experimental execution, I contributed to experimental design, project development, and peptide synthesis efforts, gaining experience in how therapeutic concepts are translated into testable research workflows. I continued this work part-time during the academic year, allowing me to stay involved in advancing immunotherapy-focused research while balancing academic responsibilities."""
   
   [[experience]]
+  title = "Undergraduate Student Researcher"
+  company = "Purdue University"
+  company_url = ""
+  location = "West Lafayette"
+  date_start = "2023-08-01"
+  date_end = "2024-05-01"
+  description = """I investigated strategies to reprogram the tumor microenvironment by promoting regulatory T cell (Treg) recruitment and exploring ways to convert immunologically “cold” tumors into more immune-responsive “hot” tumors. This work focused on strengthening anti-tumor immune activity by understanding how immune cell composition and signaling can be strategically shaped.
+
+My hands-on work included PBMC isolation, cytokine-driven immune cell differentiation, and multi-color flow cytometry to characterize immune phenotypes and functional profiles. These approaches allowed me to analyze how immune cells shift under different stimulatory conditions and how those changes may influence tumor immunity.
+
+I also contributed to in vivo immunotherapy studies using immunomodulatory agents to reprogram tumor-associated macrophages from a pro-tumor M2 state to an anti-tumor M1 phenotype. In parallel, I supported development of a receptor-targeted diagnostic strategy leveraging folate receptor expression as a potential tool for early cancer detection and limiting metastatic progression.
+
+Through this work, I gained experience connecting cellular immunology with translational cancer strategies, learning how targeted immune modulation can influence therapeutic outcomes."""
+
+[[experience]]
   title = "Summer Intern"
   company = "Indian Institute of Science (IISC)"
   company_url = ""
   location = "Bangalore"
   date_start = "2023-06-01"
   date_end = "2023-07-01"
-  description = """Investigated strategies to reprogram the tumor microenvironment by enhancing regulatory T cell (Treg) recruitment and converting immunologically “cold” tumors into “hot” tumors to strengthen anti-tumor immune responses. Conducted PBMC isolation, cytokine-driven immune cell differentiation, and multi-color flow cytometry to analyze immune phenotypes and functional profiles. Contributed to in vivo immunotherapy studies using immunomodulatory agents to shift tumor-associated macrophages from a pro-tumor M2 phenotype to an anti-tumor M1 phenotype, and supported development of a receptor-targeted diagnostic strategy leveraging folate receptor expression for early cancer detection and metastasis prevention."""
+  description = """During my internship in Dr. Palani’s biochemistry lab, I gained hands-on experience with core molecular biology techniques, including plasmid preparation, Gibson assembly, and gel electrophoresis, while contributing to research on cytoskeletal dynamics and the cellular mechanisms underlying division and force generation.
+
+Working closely with a PhD mentor, I helped execute experiments, troubleshoot protocols, and refine workflows, which strengthened both my technical precision and problem-solving skills. Through this work, I developed a deeper understanding of protein engineering, gene cloning strategies, and how molecular tools are used to investigate cell mechanics at a functional level."""
 +++
