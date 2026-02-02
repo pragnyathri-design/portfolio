@@ -44,4 +44,4 @@ hero_media = "user-2.jpg"
 +++
 ## My name is **Pragnya Prasanna Athri** 
 
-I'm majoring in **Cell Molecular and Developmental Biology** with a minor in **Chemistry** and a certificate in **Pharmaceutical Manufacturing** from Purdue University.
+I am majoring in **Cell Molecular and Developmental Biology** with a minor in **Chemistry** and a certificate in **Pharmaceutical Manufacturing** from Purdue University.
