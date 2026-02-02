@@ -1,5 +1,5 @@
 ---
-title: Development of a Bispecific Antigenic immuno-Therapy (BAiT) platform for the treatment of folate receptor overexpressing solid tumors
+title: Development of BAiT platform for the treatment of folate receptor overexpressing solid tumors
 summary: Affiliated with Eradivir 
 date: "2025-01-27"
 
@@ -8,7 +8,7 @@ external_link:
 
 #image:
  # caption: Photo by Toa Heftiba on Unsplash
-  # focal_point: Smart
+# focal_point: Smart
 ---
 <div style="max-width: 900px; margin: 0 auto;">
 
