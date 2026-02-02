@@ -17,6 +17,7 @@
   {{ end }}
   {{ end }}
 
+  {{/*
   {{ if not (in (slice "talk" "page") $page.Type) }}
   <span class="article-date">
     {{ $date := $page.Lastmod.Format site.Params.date_format }}
@@ -30,6 +31,7 @@
     <time>{{ $date }}</time>
   </span>
   {{ end }}
+*/}}
 
   {{ if and (eq $is_list 1) (eq $page.Type "publication") }}
   <span class="middot-divider"></span>
@@ -66,9 +68,9 @@
     {{- end -}}
   </span>
   {{ end }}
-
+{{/*
   {{ if $share }}
     {{ partial "share.html" $page }}
   {{ end }}
-
+*/}}
 </div>

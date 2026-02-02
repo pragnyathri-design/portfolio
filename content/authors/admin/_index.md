@@ -7,7 +7,7 @@ authors:
 - admin
 # resume download button
 btn:
-- url : "Athri_Pragyna_resume.pdf"
+- url : "https://github.com/pragnyathri-design/portfolio/raw/main/static/Athri_Pragnya%20_%20resume%20.pdf"
   label : "Download Resume"
 
 # Is this the primary user of the site?
