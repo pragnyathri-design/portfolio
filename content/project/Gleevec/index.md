@@ -6,9 +6,9 @@ date: "2016-04-27T00:00:00Z"
 # Optional external URL for project (replaces project detail page).
 external_link: 
 
-image:
-  caption: Photo by Toa Heftiba on Unsplash
-  focal_point: Smart
+# image:
+  # caption: Photo by Toa Heftiba on Unsplash
+  # focal_point: Smart
 ---
 <div style="max-width: 900px; margin: 0 auto;">
 
